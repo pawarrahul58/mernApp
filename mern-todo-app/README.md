@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Following are the scenarios consider by me.
+1. This CRUD app written in ReactJs, NodeJs, ExpressJs and MongoDB.
+
+2. Software requirements:- Node.js - stable verion, MongoDB - stable release, NPM - node package manager
+
+3.If want to run this app clone or download this project on your local machine, Then go into the mern-todo-app directory. 
+then run command:- npm install
+
+4. Need MongoDB working on your local machine and change credentials in backend/server.js file.
 
 ## Available Scripts
 
